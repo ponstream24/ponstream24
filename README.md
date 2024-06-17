@@ -2,6 +2,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ponstream24&theme=default)
 
+![](https://github-readme-stats-ponstream24s-projects.vercel.app/api/top-langs/?layout=compact&count_private=true&username=ponstream24)
+
+![](https://github-readme-stats-ponstream24s-projects.vercel.app/api?count_private=true&username=ponstream24)
+
 ## About
 
 - 🔭 I’m currently working on: Developing web applications, Java applications, and various other programs.
