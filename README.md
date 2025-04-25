@@ -8,6 +8,8 @@ My PortFolio https://portfolio.yukitetsuka.com/
 
 ![](https://github-readme-stats-ponstream24s-projects.vercel.app/api?count_private=true&username=ponstream24)
 
+![](https://github-profile-trophy.vercel.app/?username=ponstream24)
+
 ## About
 
 - 🔭 I’m currently working on: Developing web applications, Java applications, and various other programs.
